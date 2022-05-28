@@ -1,1 +1,1 @@
-# e-commerce-restful-api
+# E-COMMERCE RESTFUL API
